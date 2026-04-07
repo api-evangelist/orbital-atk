@@ -1,7 +1,12 @@
 aid: orbital-atk
-url: https://raw.githubusercontent.com/api-evangelist/orbital-atk/refs/heads/main/apis.yml
+url: 
+  https://raw.githubusercontent.com/api-evangelist/orbital-atk/refs/heads/main/apis.yml
 modified: '2026-03-24'
 apis: []
 common:
   - type: Website
     url: https://www.orbital-atk.com
+description: >-
+  Orbital ATK was an American aerospace manufacturer and defense industry company
+  that produced launch vehicles, satellites, and weapons systems before being acquired
+  by Northrop Grumman.
