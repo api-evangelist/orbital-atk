@@ -1,7 +1,9 @@
 ---
 title: Northrop Grumman to Acquire Orbital ATK for $9.2 Billion
 url: https://kommunikasjon.ntb.no/pressemelding/15882142/northrop-grumman-to-acquire-orbital-atk-for-92-billion?publisherId=4954260
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"Orbital ATK" press release artificial intelligence'
 position: 1
 source: serpapi-google

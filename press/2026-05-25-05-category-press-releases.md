@@ -1,7 +1,9 @@
 ---
 title: 'Category: Press Releases'
 url: https://www.govconwire.com/category/press-releases/page/421
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"Orbital ATK" press release artificial intelligence'
 position: 5
 source: serpapi-google

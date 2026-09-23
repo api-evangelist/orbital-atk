@@ -1,7 +1,9 @@
 ---
 title: 'Research Update: Orbital ATK Inc. (Formerly Allia'
 url: https://www.spglobal.com/ratings/en/regulatory/article/-/view/sourceId/9029481
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"Orbital ATK" press release artificial intelligence'
 position: 4
 source: serpapi-google
