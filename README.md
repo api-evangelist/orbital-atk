@@ -1,4 +1,4 @@
-# Orbital ATK (orbital-atk)
+# Orbital ATK
 
 <!-- API-EVANGELIST-PROVENANCE:BEGIN -->
 > ### About this repository
@@ -66,35 +66,67 @@
 
 Orbital ATK was an American aerospace manufacturer and defense industry company formed in February 2015 by the merger of Orbital Sciences Corporation and the defense and aerospace divisions of Alliant Techsystems. The company produced launch vehicles, satellites, missiles, ammunition, precision-guided munitions, rocket motors, and the Cygnus spacecraft for ISS resupply before being acquired by Northrop Grumman on June 6, 2018 and rebranded as Northrop Grumman Innovation Systems.
 
-**URL:** [Visit APIs.json URL](https://raw.githubusercontent.com/api-evangelist/orbital-atk/refs/heads/main/apis.yml)
+**Areas:** Aerospace · Defense · Launch Vehicles · Satellite · Spacecraft · Acquired
 
-## Scope
+## Orbital ATK on APIs.io
 
-- **Type:** Index
-- **Position:** Producer
-- **Access:** 3rd-Party
+Everything profiled for Orbital ATK is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/orbital-atk/](https://apis.io/providers/orbital-atk/)** — or go straight to one of the APIs or properties below.
 
-## Tags:
+## Where to find this API
 
- - Aerospace, Defense, Launch Vehicles, Satellites, Spacecraft, Acquired
-
-## Timestamps
-
-- **Created:** 2026-03-24
-- **Modified:** 2026-04-28
-
-## APIs
-
-No public APIs are documented for Orbital ATK. The company was acquired by Northrop Grumman in June 2018 and operations were folded into Northrop Grumman Innovation Systems, then later reorganized.
-
-## Common Properties
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
 
 - [Website](https://www.orbital-atk.com)
-- [Successor Company](https://www.northropgrumman.com/)
-- [Wikipedia](https://en.wikipedia.org/wiki/Orbital_ATK)
 
-## Maintainers
+## API Evangelist rating
 
-**FN:** Kin Lane
+**Kin Score 2.6** — minimal · rubric 0.24.0 · scored 2026-10-17
 
-**Email:** kin@apievangelist.com
+| Facet | Score |
+|---|---|
+| Discoverability | 48.2 |
+| Contract quality | 0.0 |
+| Contract governance | 0.0 |
+| Operational transparency | 0.0 |
+| Developer ergonomics | 0.0 |
+| Access clarity | 0.0 |
+
+**Agent readiness 0.0** — human-only
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | — |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | — |
+| Auth Clarity | — |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+
+**Regulatory alignment 0.0** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/orbital-atk/](https://apis.io/providers/orbital-atk/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Orbital ATK: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/orbital-atk/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
